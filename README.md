@@ -142,3 +142,4 @@ To stop the servers:
 - The CSV file is located in storage/transactions.csv
 - Transaction status is randomized when adding new transactions
 - No authentication is required as per the requirements
+- AWS deployment: http://13.213.68.214:3000/
